@@ -1,0 +1,30 @@
+Projeto: Criação de um Agente de Viagem no Microsoft Copilot Studio
+
+Nesse projeto, eu usei o Microsoft Copilot Studio para criar um agente virtual para uma agência de viagens. A ideia era ter um assistente que pudesse conversar com os clientes e responder dúvidas sobre viagens.
+
+Comecei criando um agente em branco, que é um modelo vazio. Isso me permitiu montar tudo do meu jeito, sem tópicos prontos. Depois disso, criei alguns tópicos personalizados, como:
+
+Destinos recomendados – o agente sugere lugares para viajar, como “Quais os melhores destinos no verão?”
+
+Pacotes de viagem – mostra pacotes disponíveis, por exemplo, “Vocês têm pacotes para o Nordeste?”
+
+Reserva de passagens – o agente pergunta os dados da viagem e simula uma reserva.
+
+Documentos para viajar – informa se precisa de passaporte, visto, etc.
+
+Cancelamento de viagem – explica como funciona o cancelamento e reembolso.
+
+Agente em Branco
+É um agente que começa do zero, sem nada pronto. A gente cria tudo do nosso jeito: os assuntos, as perguntas e as respostas. É bom para fazer um agente bem personalizado.
+Tópicos são os assuntos que o agente pode conversar.
+Cada tópico tem:
+
+Gatilhos: frases que iniciam a conversa (ex: "Quero viajar").
+
+Fluxo de conversa: o que o agente vai perguntar e responder.
+
+Exemplo de tópicos para um agente de viagem:
+
+Destinos de viagem
+
+Documentos para viajar
